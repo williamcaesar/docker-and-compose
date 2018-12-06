@@ -1,4 +1,4 @@
-FROM docker:18.06.1
+FROM docker:dind
 
 ARG compose_version=1.23.2
 
